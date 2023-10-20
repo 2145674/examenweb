@@ -12,7 +12,7 @@ class Parent extends Component {
         resultatP: 0,
         EnombreEnfant: 0,
         EnombreParent: 0,
-        resultatE: 0,
+        resultatE: 0
     };
 }
     
